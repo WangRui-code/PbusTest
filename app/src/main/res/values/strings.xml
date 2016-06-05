@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PBusTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="userfile_name">Location</string>
+
+    <string name="skin_tabbar_icon_auth">实时公交</string>
+    <string name="skin_tabbar_icon_at">查询</string>
+    <string name="skin_tabbar_icon_space">到站提醒</string>
+    <string name="skin_tabbar_icon_more">更多</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_chosen_line">ChosenLine</string>
+    <string name="title_activity_query_result">QueryResult</string>
+
+    <string name="serverIp">192.168.8.248</string>
+    <string name="requestAddress">http://10.50.108.185:8080/BARServer/assassin.</string>
+</resources>

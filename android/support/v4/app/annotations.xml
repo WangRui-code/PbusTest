@@ -1,0 +1,5 @@
+<root>
+  <item name='android.support.v4.app.Fragment android.content.res.Resources getResources()'>
+    <annotation name='java.lang.annotation.Deprecated' />
+  </item>
+</root>
